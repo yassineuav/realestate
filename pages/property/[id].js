@@ -24,7 +24,7 @@ const propertyDetails = ({ propertyDetails: { price, rentFrequency, rooms, title
                 {rooms} <FaBed /> | {baths} <FaBath /> | {millify(area)} sqft <BsGridFill />
             </Flex>
             <Box marginTop="2">
-                <Text fontWeight="lg" marginBottom="2" fontWeight="bold">
+                <Text fontSize="lg" marginBottom="2" fontWeight="bold">
                     {title}
                 </Text>
                 <Text lineHeight="2" color="gray.600">{description}</Text>
