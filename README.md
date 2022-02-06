@@ -1,6 +1,7 @@
 ## Real Estate web app [next js & chakra ]
 
 ## https://siham.tech for more projects or contact
+## demo url : https://realestate-blue.vercel.app/
 
 npm run dev
 # or
